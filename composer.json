@@ -1,9 +1,9 @@
 {
-    "name": "rafael.hirooka/phpcrypt",
+    "name": "rafaelhirooka/phpcrypt",
     "description": "This is a copy from PHPCrypt from Ryan Gilfether, just to create a composer package",
     "authors": [
         {
-            "name": "rafael.hirooka",
+            "name": "Rafael Hirooka Sgobin",
             "email": "rafaelhirooka@gmail.com"
         }
     ],
